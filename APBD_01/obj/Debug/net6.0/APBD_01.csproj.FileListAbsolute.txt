@@ -1,0 +1,15 @@
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\bin\Debug\net6.0\APBD_01.exe
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\bin\Debug\net6.0\APBD_01.deps.json
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\bin\Debug\net6.0\APBD_01.runtimeconfig.json
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\bin\Debug\net6.0\APBD_01.dll
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\bin\Debug\net6.0\APBD_01.pdb
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\APBD_01.csproj.AssemblyReference.cache
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\APBD_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\APBD_01.AssemblyInfoInputs.cache
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\APBD_01.AssemblyInfo.cs
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\APBD_01.csproj.CoreCompileInputs.cache
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\APBD_01.dll
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\refint\APBD_01.dll
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\APBD_01.pdb
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\APBD_01.genruntimeconfig.cache
+C:\Users\kara9\Source\Repos\APBD_01\APBD_01\obj\Debug\net6.0\ref\APBD_01.dll
